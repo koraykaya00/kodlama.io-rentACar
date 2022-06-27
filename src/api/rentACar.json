@@ -1,0 +1,324 @@
+{
+  "brands": [
+    {
+      "id": 1,
+      "name": "Renault",
+      "logo": "../assets/brand/renault.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Toyota",
+      "logo": "../assets/brand/toyota.png"
+    },
+    {
+      "id": 3,
+      "name": "FIAT",
+      "logo": "../assets/brand/fiat.png"
+    },
+    {
+      "id": 4,
+      "name": "Mercedes",
+      "logo": "../assets/brand/mercedes.png"
+    },
+    {
+      "id": 5,
+      "name": "BMW",
+      "logo": "../assets/brand/bmw.png"
+    },
+    {
+      "id": 6,
+      "name": "Honda",
+      "logo": "../assets/brand/honda.png"
+    },
+    {
+      "id": 7,
+      "name": "TOGG",
+      "logo": "../assets/brand/togg.png"
+    },
+    {
+      "id": 8,
+      "name": "Tesla",
+      "logo": "../assets/brand/tesla.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Lamborghini",
+      "logo": "../assets/brand/lamborghini.jpg"
+    },
+    {
+      "id": 10,
+      "name": "Porsche",
+      "logo": "../assets/brand/porsche.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Aston Martin",
+      "logo": "../assets/brand/astonMartin.png"
+    },
+    {
+      "id": 12,
+      "name": "Bugatti",
+      "logo": "../assets/brand/bugatti.png"
+    },
+    {
+      "id": 13,
+      "name": "Ferrari",
+      "logo": "../assets/brand/ferrari.png"
+    },
+    {
+      "id": 14,
+      "name": "GMC",
+      "logo": "../assets/brand/gmc.jpg"
+    },
+    {
+      "id": 15,
+      "name": "Mcleren",
+      "logo": "../assets/brand/mcleren.png"
+    }
+  ],
+  "cars": [
+    {
+      "id": 1,
+      "brandId": 1,
+      "colorId": 1,
+      "dailyPrice": 350,
+      "description": "Megane",
+      "colorName": "Kırmızı",
+      "brandName": "Renault"
+    },
+    {
+      "id": 2,
+      "brandId": 2,
+      "colorId": 2,
+      "dailyPrice": 800,
+      "description": "Corolla",
+      "colorName": "Mavi",
+      "brandName": "Toyota"
+    },
+    {
+      "id": 3,
+      "brandId": 3,
+      "colorId": 3,
+      "dailyPrice": 150,
+      "description": "Egea",
+      "colorName": "Kahverengi",
+      "brandName": "Fiat"
+    },
+    {
+      "id": 4,
+      "brandId": 4,
+      "colorId": 4,
+      "dailyPrice": 210,
+      "description": "AMG",
+      "colorName": "Beyaz",
+      "brandName": "Mercedes"
+    },
+    {
+      "brandId": 5,
+      "colorId": 5,
+      "brandName": "BMW",
+      "colorName": "Siyah",
+      "dailyPrice": 4000,
+      "description": "X7",
+      "id": 5
+    },
+    {
+      "brandId": 6,
+      "colorId": 6,
+      "brandName": "Honda",
+      "colorName": "Yeşil",
+      "dailyPrice": 800,
+      "description": "Civic",
+      "id": 6
+    },
+    {
+      "brandId": 7,
+      "colorId": 7,
+      "brandName": "Togg",
+      "colorName": "Mor",
+      "dailyPrice": 505,
+      "description": "C-Sedan",
+      "id": 7
+    },
+    {
+      "brandId": 8,
+      "colorId": 8,
+      "brandName": "Tesla",
+      "colorName": "Bordo",
+      "dailyPrice": 505,
+      "description": "S",
+      "id": 8
+    },
+    {
+      "brandId": 9,
+      "colorId": 9,
+      "brandName": "Lamborghini",
+      "colorName": "Gümüş",
+      "dailyPrice": 505,
+      "description": "Avendator",
+      "id": 9
+    },
+    {
+      "brandId": 10,
+      "colorId": 10,
+      "brandName": "Porsche",
+      "colorName": "Pembe",
+      "dailyPrice": 505,
+      "description": "Cayanne",
+      "id": 10
+    },
+    {
+      "brandId": 11,
+      "colorId": 11,
+      "brandName": "Aston Martin",
+      "colorName": "Sarı",
+      "dailyPrice": 505,
+      "description": "Rapide",
+      "id": 11
+    },
+    {
+      "brandId": 12,
+      "colorId": 12,
+      "brandName": "Bugatti",
+      "colorName": "Turuncu",
+      "dailyPrice": 505,
+      "description": "Veyron",
+      "id": 12
+    },
+    {
+      "brandId": 13,
+      "colorId": 13,
+      "brandName": "Ferrari",
+      "colorName": "Lacivert",
+      "dailyPrice": 505,
+      "description": "F40",
+      "id": 13
+    },
+    {
+      "brandId": 14,
+      "colorId": 14,
+      "brandName": "GMC",
+      "colorName": "Gri",
+      "dailyPrice": 505,
+      "description": "Sierra 6.2",
+      "id": 14
+    },
+    {
+      "brandId": 15,
+      "colorId": 5,
+      "brandName": "Mcleren",
+      "colorName": "Siyah",
+      "dailyPrice": 505,
+      "description": "M6 GT",
+      "id": 15
+    }
+  ],
+  "colors": [
+    {
+      "id": 1,
+      "colorName": "Kırmızı"
+    },
+    {
+      "id": 2,
+      "colorName": "Mavi"
+    },
+    {
+      "id": 3,
+      "colorName": "Kahverengi"
+    },
+    {
+      "id": 4,
+      "colorName": "Beyaz"
+    },
+    {
+      "id": 5,
+      "colorName": "Siyah"
+    },
+    {
+      "colorName": "Yeşil",
+      "id": 6
+    },
+    {
+      "colorName": "Mor",
+      "id": 7
+    },
+    {
+      "colorName": "Bordo",
+      "id": 8
+    },
+    {
+      "colorName": "Gümüş",
+      "id": 9
+    },
+    {
+      "colorName": "Pembe",
+      "id": 10
+    },
+    {
+      "colorName": "Sarı",
+      "id": 11
+    },
+    {
+      "colorName": "Turuncu",
+      "id": 12
+    },
+    {
+      "colorName": "Lacivert",
+      "id": 13
+    },
+    {
+      "colorName": "Gri",
+      "id": 14
+    }
+  ],
+  "carProperties": [
+    {
+      "id": 1,
+      "name": "Adrese Teslim",
+      "unitPrice": 10,
+      "isChecked": false
+    },
+    {
+      "id": 2,
+      "name": "Adresten İade",
+      "unitPrice": 10,
+      "isChecked": false
+    },
+    {
+      "id": 3,
+      "name": "Ek Sürücü",
+      "unitPrice": 10,
+      "isChecked": false
+    },
+    {
+      "id": 4,
+      "name": "GPS",
+      "unitPrice": 10,
+      "isChecked": false
+    },
+    {
+      "id": 5,
+      "name": "Çocuk Koltuğu",
+      "unitPrice": 10,
+      "isChecked": false
+    },
+    {
+      "id": 6,
+      "name": "Güvence Paketi",
+      "unitPrice": 10,
+      "isChecked": false
+    },
+    {
+      "id": 7,
+      "name": "Yol Yardım Assistans",
+      "unitPrice": 10,
+      "isChecked": false
+    }
+  ],
+  "users": [
+    {
+      "eMail": "i.korayykaya@gmail.com",
+      "password": "kayakoray17"
+    }
+  ]
+}
